@@ -1,0 +1,11 @@
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/salsa20-737294d7887d8339.d: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends/soft.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/xsalsa.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/../README.md
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libsalsa20-737294d7887d8339.rlib: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends/soft.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/xsalsa.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/../README.md
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libsalsa20-737294d7887d8339.rmeta: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends/soft.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/xsalsa.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/../README.md
+
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/lib.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/backends/soft.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/xsalsa.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/salsa20-0.11.0/src/../README.md:

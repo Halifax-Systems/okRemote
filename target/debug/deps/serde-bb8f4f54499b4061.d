@@ -1,0 +1,14 @@
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/serde-bb8f4f54499b4061.d: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/taylor/Development/okRemote-Connection-Manager/target/debug/build/serde-212cc96c28d7fbaa/out/private.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libserde-bb8f4f54499b4061.rlib: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/taylor/Development/okRemote-Connection-Manager/target/debug/build/serde-212cc96c28d7fbaa/out/private.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libserde-bb8f4f54499b4061.rmeta: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/taylor/Development/okRemote-Connection-Manager/target/debug/build/serde-212cc96c28d7fbaa/out/private.rs
+
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/build/serde-212cc96c28d7fbaa/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/taylor/Development/okRemote-Connection-Manager/target/debug/build/serde-212cc96c28d7fbaa/out

@@ -1,0 +1,14 @@
+/Users/taylor/Development/okRemote-Connection-Manager/target/release/deps/thiserror-157e6cd005474929.d: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/taylor/Development/okRemote-Connection-Manager/target/release/build/thiserror-e2b09310596edb40/out/private.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/release/deps/libthiserror-157e6cd005474929.rlib: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/taylor/Development/okRemote-Connection-Manager/target/release/build/thiserror-e2b09310596edb40/out/private.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/release/deps/libthiserror-157e6cd005474929.rmeta: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /Users/taylor/Development/okRemote-Connection-Manager/target/release/build/thiserror-e2b09310596edb40/out/private.rs
+
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/Users/taylor/Development/okRemote-Connection-Manager/target/release/build/thiserror-e2b09310596edb40/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/taylor/Development/okRemote-Connection-Manager/target/release/build/thiserror-e2b09310596edb40/out

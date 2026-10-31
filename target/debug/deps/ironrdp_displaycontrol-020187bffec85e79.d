@@ -1,0 +1,10 @@
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/ironrdp_displaycontrol-020187bffec85e79.d: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/client.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/pdu/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/server.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libironrdp_displaycontrol-020187bffec85e79.rlib: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/client.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/pdu/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/server.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/debug/deps/libironrdp_displaycontrol-020187bffec85e79.rmeta: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/client.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/pdu/mod.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/server.rs
+
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/lib.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/client.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/pdu/mod.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ironrdp-displaycontrol-0.9.0/src/server.rs:

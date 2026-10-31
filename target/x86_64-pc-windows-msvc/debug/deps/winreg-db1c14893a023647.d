@@ -1,0 +1,11 @@
+/Users/taylor/Development/okRemote-Connection-Manager/target/x86_64-pc-windows-msvc/debug/deps/winreg-db1c14893a023647.d: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/common.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/enums.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key_metadata.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_value.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/types.rs
+
+/Users/taylor/Development/okRemote-Connection-Manager/target/x86_64-pc-windows-msvc/debug/deps/libwinreg-db1c14893a023647.rmeta: /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/lib.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/common.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/enums.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key_metadata.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_value.rs /Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/types.rs
+
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/lib.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/common.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/enums.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_key_metadata.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/reg_value.rs:
+/Users/taylor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/winreg-0.52.0/src/types.rs:

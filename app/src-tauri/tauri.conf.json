@@ -1,0 +1,71 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "okRemote",
+  "version": "0.1.0",
+  "identifier": "com.halifaxsystems.okremote",
+  "build": {
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:1420",
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "okRemote",
+        "width": 1400,
+        "height": 900,
+        "minWidth": 820,
+        "minHeight": 520,
+        "dragDropEnabled": false
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' ipc: http://ipc.localhost"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "category": "DeveloperTool",
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "macOS": {
+      "minimumSystemVersion": "12.0",
+      "signingIdentity": "-"
+    },
+    "fileAssociations": [
+      {
+        "ext": [
+          "okvault"
+        ],
+        "name": "okRemote vault",
+        "role": "Editor",
+        "mimeType": "application/x-okremote-vault"
+      }
+    ],
+    "publisher": "okRemote",
+    "copyright": "okRemote",
+    "shortDescription": "Connection manager for SSH, RDP, VNC and web sessions",
+    "longDescription": "okRemote keeps hosts in an encrypted vault and opens SSH terminals, RDP desktops, VNC, web and external-tool sessions, with jump chains and forwards.",
+    "windows": {
+      "webviewInstallMode": {
+        "type": "downloadBootstrapper"
+      }
+    },
+    "linux": {
+      "deb": {
+        "section": "net"
+      },
+      "rpm": {
+        "release": "1"
+      }
+    }
+  }
+}
